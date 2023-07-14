@@ -43,7 +43,8 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 * Màn hình Welcome
 
 ![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png) 
-Màn hình đăng nhập
+
+*Màn hình đăng nhập
 
 ![Màn hình đăng nhập](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dang_nhap.png) 
 ![Màn hình chính](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/man_hinh_chinh_user.png) 
