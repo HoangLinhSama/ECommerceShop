@@ -23,6 +23,22 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 ### Database (XAMPP CONTROL PANEL)
 1) Tạo một database mới tên ecommerce trên phpMyAdmin, sau đó Import file ecommerce.sql trong thư mục Database vào
 ***
-## GIAO DIỆN VÀ CÁC CHỨC NĂNG CHÍNH
+## CÁC CHỨC NĂNG CHÍNH
+### CÁC CHỨC NĂNG CHUNG
+* Đăng ký tài khoản, đăng nhập, reset password bằng Firebase Authentication
+* Chat Realtime bằng Firebase Firestore Database
+* Xem thông tin chi tiết sản phẩm
+### CÁC CHỨC NĂNG CỦA KHÁCH HÀNG
+* Xem sản phẩm theo từng loại (điện thoại, laptop)
+* Tìm kiếm sản phẩm theo tên sản phẩm
+* Thêm sản phẩm vào giỏ hàng
+* Đặt hàng có tích hợp thanh toán bằng ZaloPay và gửi thông báo về đơn hàng mới đến người bán bằng Firebase Messaging
+* Xem lịch sử đơn hàng
+### CÁC CHỨC NĂNG CỦA NGƯỜI BÁN
+* Quản lý sản phẩm (Thêm, xóa, sửa sản phẩm)
+* Quản lý đơn hàng (Cập nhật trạng thái đơn hàng và gửi thông báo đến khách hàng bằng Firebase Messaging)
+* Thống kê doanh thu theo từng ngày trong tháng
+***
+## GIAO DIỆN
 * Màn hình Welcome
 ![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png)
