@@ -70,7 +70,7 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 
 * Tìm kiếm sản phẩm
 
-![ìm kiếm sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/tim_kiem.png)
+![Tìm kiếm sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/tim_kiem.png)
 
 * Chi tiết sản phẩm
 
@@ -79,4 +79,12 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 * Thêm hàng vào giỏ hàng
 
 ![Thêm hàng vào giỏ ](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/gio_hang.png)
+
+* Đặt hàng
+
+![Đặt hàng](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dat_hang.png)
+
+* Thanh toán bằng ZaloPay
+
+![Zalo Pay](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/thanh_toan_zalo_pay.png)
 
