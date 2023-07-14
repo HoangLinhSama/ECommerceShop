@@ -88,3 +88,34 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 
 ![Zalo Pay](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/thanh_toan_zalo_pay.png)
 
+* Thông báo đơn hàng mới
+
+![Đơn hàng mới](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/thong_bao_don_hang_moi.png)
+
+* Xem lịch sử đơn hàng
+
+![Lịch sử đơn hàng ](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/lich_su_don_hang.png)
+
+* Chat RealTime
+
+![Chat RealTime](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/chat.png)
+
+* Các chức năng của người bán
+
+![Chức năng Admin](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/cac_chuc_nang_admin.png)
+
+* Thêm sản phẩm mới
+
+![Thêm sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/them_san_pham.png)
+
+* Quản lý đơn hàng
+
+![Quản lý đơn hàng](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/quan_ly_don_hang.png)
+
+* Thông báo trạng thái đơn hàng
+
+![Trạng thái đơn hàng](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/thong_bao_thang_thai_don_hang.png)
+
+* Thống kê doanh thu
+
+![Thống kê doanh thu](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/thong_ke.jpg)
