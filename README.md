@@ -60,6 +60,23 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 
 ![Reset Password](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/reset_password.png) 
 
-![Reset Password Email](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/email_reset_pass.jpg)
+* Loại sản phẩm: Điện thoại
 
+![Điện thoại](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dien_thoai.png) 
+
+* Loại sản phẩm: Laptop
+  
+![Laptop](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/laptop.png) 
+
+* Tìm kiếm sản phẩm
+
+![ìm kiếm sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/tim_kiem.png)
+
+* Chi tiết sản phẩm
+
+![Chi tiết sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/chi_tiet_san_pham.png)
+
+* Thêm hàng vào giỏ hàng
+
+![Thêm hàng vào giỏ ](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/gio_hang.png)
 
