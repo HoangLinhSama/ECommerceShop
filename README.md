@@ -58,6 +58,8 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 
 * Reset Password
 
-![Reset Password](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/reset_password.png) ![Reset Password Email](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/email_reset_pass.jpg)
+![Reset Password](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/reset_password.png) 
+
+![Reset Password Email](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/email_reset_pass.jpg)
 
 
