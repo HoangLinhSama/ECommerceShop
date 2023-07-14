@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ApiUtils {
-    public static final String baseUrl = "http://192.168.1.73/ecommerce/"; // URL localhost PHP MyAdmin
+    public static final String baseUrl = "http://192.168.1.73/ecommerce/Server/"; // URL localhost PHP MyAdmin
     public static final String FCMUrl = "https://fcm.googleapis.com/"; // URL Firebase Cloud Message
     public static List<Cart> listCart; // list gio hang toan cuc chua thong tin cac san pham da them vao gio hang
     public static User currentUser = new User(); // tai khoan hien dang dang nhap ung dung
