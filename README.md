@@ -20,7 +20,7 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 3) Sửa đường dẫn ở dòng code ```implementation fileTree(dir: 'D:\\job\\mobile\\android\\android\\project\\androidstudio\\ECommerce', include: ['*.aar', '*.jar'], exclude: [])``` trong file build.gradle(Module:app) thành đường dẫn chứa file zpdk-release-v3.1.aar của bạn
 ### SERVER (VISUAL STUDIO CODE)
 1) Tạo thư mục ECommerce trong thư mục htdocs của bạn, sau đó thêm thư mục Server vào 
-### Database (XAMPP CONTROL PANEL)
+### DATABASE (XAMPP CONTROL PANEL)
 1) Tạo một database mới tên ecommerce trên phpMyAdmin, sau đó Import file ecommerce.sql trong thư mục Database vào
 ***
 ## CÁC CHỨC NĂNG CHÍNH
@@ -41,4 +41,6 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 ***
 ## GIAO DIỆN
 * Màn hình Welcome
-![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png)
+  ![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png)
+* Màn hình đăng nhập
+  ![Màn hình đăng ](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dang_nhap.png)
