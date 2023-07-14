@@ -108,6 +108,10 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 
 ![Thêm sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/them_san_pham.png)
 
+* Xóa, sửa sản phẩm
+
+![Xóa, sửa sản phẩm](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/xoa_sua_san_pham.png)
+
 * Quản lý đơn hàng
 
 ![Quản lý đơn hàng](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/quan_ly_don_hang.png)
