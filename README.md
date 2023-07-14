@@ -25,3 +25,4 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 ***
 ## GIAO DIỆN VÀ CÁC CHỨC NĂNG CHÍNH
 * Màn hình Welcome
+![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png)
