@@ -40,9 +40,13 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 * Thống kê doanh thu theo từng ngày trong tháng
 ***
 ## GIAO DIỆN
-* Màn hình Welcome                                                       * Đăng nhập
+* Màn hình Welcome
 
-![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png) ![Màn hình đăng nhập](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dang_nhap.png) 
+![Màn hình welcome](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/welcome.png) 
+
+* Đăng nhập
+
+![Đăng nhập](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dang_nhap.png) 
 
 * Màn hình chính
 
@@ -51,5 +55,9 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 * Đăng ký tài khoản
 
 ![Đăng ký tài khoản](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/dang_ky.png)
+
+* Reset Password
+
+![Reset Password](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/reset_password.png) ![Reset Password Email](https://github.com/HoangLinhSama/ECommerceShop/blob/master/Image/email_reset_pass.png)
 
 
