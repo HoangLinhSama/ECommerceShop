@@ -14,13 +14,14 @@ App bán hàng cho phép khách hàng mua sản phẩm online, có tích hợp h
 - XAMPP Control Panel v3.3.0
 ***
 ## HƯỚNG DẪN CÀI ĐẶT
-### Client (Android Studio)
+### CLIENT (ANDROID STUDIO)
 1) Import Project trong thư mục Client vào Android Studio
 2) Sửa **192.168.1.73** ở dòng code ```public static final String baseUrl = "http://192.168.1.73/ecommerce/Serve/";``` trong file ApiUtils.java thành địa chỉ IP của bạn
 3) Sửa đường dẫn ở dòng code ```implementation fileTree(dir: 'D:\\job\\mobile\\android\\android\\project\\androidstudio\\ECommerce', include: ['*.aar', '*.jar'], exclude: [])``` trong file build.gradle(Module:app) thành đường dẫn chứa file zpdk-release-v3.1.aar của bạn
-### Server (Visual Studio Code)
+### SERVER (VISUAL STUDIO CODE)
 1) Tạo thư mục ECommerce trong thư mục htdocs của bạn, sau đó thêm thư mục Server vào 
-### Database (XAMPP Control Panel)
+### Database (XAMPP CONTROL PANEL)
 1) Tạo một database mới tên ecommerce trên phpMyAdmin, sau đó Import file ecommerce.sql trong thư mục Database vào
 ***
-## CÁC CHỨC NĂNG CHÍNH
+## GIAO DIỆN VÀ CÁC CHỨC NĂNG CHÍNH
+* Màn hình Welcome
